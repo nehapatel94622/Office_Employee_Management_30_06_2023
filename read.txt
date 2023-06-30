@@ -1,0 +1,14 @@
+---------Stepts---
+-------------------------------------------------------------------------
+-->Install Virtual Environment
+  py -m pip install --user virtualenv
+-->Create Virtualenv(authenv)
+   py -m virtualenv env  
+  
+-->Activate Virtualenv
+  .\env\Scripts\activate  
+
+------------------------------------------------------------------------
+--->Create project:-
+ django-admin startproject office_emp_management
+-->then runserver
